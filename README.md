@@ -1,6 +1,3 @@
-﻿# auladeapp
-# auladeAPP05
-# auladeAPP05
 # Diceroler
 
 <h1>Projeto feito em aula usando linghuagem Kotlin no Andorid Studio.
